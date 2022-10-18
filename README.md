@@ -28,7 +28,14 @@ F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')'
 ## Logic Diagram:
 ![](rtl.PNG)
 ## Procedure:
-
+### Step-1:
+Install quartus and its components.
+### Step-2:
+Create a new project and enter the required code in verilog HDL file.
+### Step-3:
+Compile the program and view the rtl file for logic diagram.
+### Step-4:
+Get the timing diagram for different inputs using VWF file.
 ## Program:
 ```
 '''
